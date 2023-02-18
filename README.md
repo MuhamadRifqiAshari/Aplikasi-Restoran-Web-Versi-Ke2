@@ -17,8 +17,8 @@ Aplikasi Restoran Web adalah sebuah aplikasi berbasis web yang dibuat untuk memb
 ## Ringkasan
 
 Terdapat 4 level untuk pengguna:
-- Level 1: Menejer
-- Level 2: Admin
+- Level 1: Adminv
+- Level 2: Owner
 - Lever 3: Kasir
 - Lever 4: Pelanggan
 
